@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="projetockeckevents.novaroma.br.projetocheckevents.CadastroUsuarioActivity">
+
+    <item android:id="@+id/action_next" android:title="@string/next"
+        android:orderInCategory="200" app:showAsAction="always" android:icon="@drawable/ic_play_dark"/>
+
+</menu>

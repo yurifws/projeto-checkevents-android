@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CheckEvents</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main">Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="next">Próximo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_navigation_drawer">CheckEvents</string>
+    <string name="title_activity_atualizacao_usuario">Atualização Usuário</string>
+    <string name="title_activity_cadastro_evento">Cadastro Evento</string>
+    <string name="title_activity_cadastro_usuario">Cadastro Usuário</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TEXT LOGIN-->
+    <string name="login_login">Login</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_manter_conectado">Permanecer Conectado</string>
+    <string name="login_message_cadastre">Já se cadastrou? Não? Então,</string>
+    <string name="login_cadastro"><u>Cadastre-se</u></string>
+</resources>
